@@ -1,0 +1,2 @@
+# CamScanner_watermark_remover
+移除扫描全能王pdf文件水印
